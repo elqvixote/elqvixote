@@ -1,11 +1,21 @@
-Soy peruano venezolano actualmente radicado en Lima. Ingeniero metalúrgico con experiencia en sistemas de la calidad y análisis de procesos 📊. 
+#El Qvixote
+
+Soy peruano venezolano actualmente radicado en Lima. Ingeniero metalúrgico con experiencia en sistemas de la calidad y análisis de procesos 📊
+
+
 Actualmente aprendiendo sobre Ciencia de Datos y buscando participar en proyectos de Python 🐍 y Data Science.
 
+
+
 📫 How to reach me / Me puedes contactar en: 
+
+
                                             🐦 Twitter @elqvixote
-                                            📄 https://www.linkedin.com/in/robertosheldon/
+                                            
+                                            
+                                            📄 [Linkedin](https://www.linkedin.com/in/robertosheldon/)
                     
-    Tengo un blog sobre los libros que leo 📚 https://elbuenleer.com/ cafeinomano  ☕
+Tengo un blog sobre los libros que leo 📚 https://elbuenleer.com/ cafeinomano  ☕
     
 - 🔭 I’m metallurgical engineer currently working on quality systems 📊 
 - 🌱 I’m currently learning Data Science 
