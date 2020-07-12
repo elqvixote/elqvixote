@@ -1,16 +1,13 @@
-### Hi there 👋
+Soy peruano venezolano actualmente radicado en Lima. Ingeniero metalúrgico con experiencia en sistemas de la calidad y análisis de procesos 📊. Actualmente aprendiendo sobre Ciencia de Datos y buscando ayuda en Python 🐍.
 
-<!--
-**elqvixote/elqvixote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me / Me puedes contactar en: 
+                                            🐦 Twitter @elqvixote
+                                            ✉️ rsheldon@elbuenleer.com
+                                            📄 https://www.linkedin.com/in/robertosheldon/
+                    
+    Tengo un blog sobre los libros que leo 📚 https://elbuenleer.com/ cafeinomano  ☕
+    
+- 🔭 I’m metallurgical engineer currently working on quality systems 📊 
+- 🌱 I’m currently learning Data Science 
+- 👯 I’m looking to collaborate on data science projects.
+- 🤔 I’m looking for help with Python 🐍 
