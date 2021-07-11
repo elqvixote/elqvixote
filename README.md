@@ -1,13 +1,12 @@
-#El Qvixote
 
-Ingeniero metalúrgico con experiencia en sistemas de la calidad y análisis de procesos 📊 interesado en la mejora y optimización de procesos 
-usando análisis de datos. Navegando entre Python, R, MySQL y Power BI.
+![Alt Text](https://github.com/elqvixote/elqvixote/blob/master/1613952956225.jpg)
 
-📫 How to reach me / Me puedes contactar en: 🐦Twitter @elqvixote y en 📄 [Linkedin](https://www.linkedin.com/in/robertosheldon/)            
-                                  
+## ¡Bienvenido a mi perfil!
+Soy **Analista de Datos** e ingeniero metalúrgico con experiencia en sistemas de la calidad y análisis de procesos. Busco mejorar y optimizar procesos en las organizaciones a partir de la ciencia de datos. Capacitándome continuamente en Python, R, MySQL y Power BI. No dejamos de aprender y nos atrevemos con vehemencia **Audere Vehementer**.
+
+## Me puedes contactar en:
+🐦Twitter @elqvixote y en 📄 [Linkedin](https://www.linkedin.com/in/robertosheldon/)            
+                            
+ 
 Tengo un blog sobre los libros que leo 📚 https://elbuenleer.wordpress.com/ cafeinomano  ☕
-    
-- 🔭 I’m metallurgical engineer currently working on quality systems 📊 
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on data science projects.
  
